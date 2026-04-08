@@ -9,20 +9,7 @@
 <h2>📱 Hasil Slicing (Screenshots)</h2>
 <p>Berikut adalah perbandingan antara desain referensi asli dengan hasil kode Flutter:</p>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%"><b>Desain Asli (Referensi)</b></td>
-    <td align="center" width="50%"><b>Hasil Slicing (Flutter)</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="URL_GAMBAR_ASLI.jpg" alt="Desain Asli Sister" width="300" />
-    </td>
-    <td align="center">
-      <img src="URL_GAMBAR_HASIL_SLICING.png" alt="Hasil Aplikasi Flutter" width="300" />
-    </td>
-  </tr>
-</table>
+<p>gambar</p>
 
 <h2>✨ Fitur Antarmuka (Komponen)</h2>
 <p>Projek ini mencakup pembuatan beberapa komponen UI utama dengan Flutter Material Design, antara lain:</p>
