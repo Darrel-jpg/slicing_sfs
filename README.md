@@ -7,9 +7,7 @@
 <hr>
 
 <h2>📱 Hasil Slicing (Screenshots)</h2>
-<p>Berikut adalah perbandingan antara desain referensi asli dengan hasil kode Flutter:</p>
-
-<p>slicing_sfs.png</p>
+![Hasil slicing](slicing_sfs.png)
 
 <h2>✨ Fitur Antarmuka (Komponen)</h2>
 <p>Projek ini mencakup pembuatan beberapa komponen UI utama dengan Flutter Material Design, antara lain:</p>
