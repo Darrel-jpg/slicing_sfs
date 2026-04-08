@@ -6,21 +6,10 @@
 
 <hr>
 
-<h2>📱 Hasil Slicing (Screenshots)</h2>
-![Hasil slicing](slicing_sfs.png)
+<h2>Hasil Slicing (Screenshots)</h2>
+<img width="622" height="1024" alt="slicing_sfs" src="https://github.com/user-attachments/assets/32a05dbe-2b96-42f5-ace7-b709de0a6837" />
 
-<h2>✨ Fitur Antarmuka (Komponen)</h2>
-<p>Projek ini mencakup pembuatan beberapa komponen UI utama dengan Flutter Material Design, antara lain:</p>
-<ul>
-  <li><b>Custom Header:</b> Logo universitas sederhana dan tombol notifikasi.</li>
-  <li><b>Gradient Profile Card:</b> Kartu identitas mahasiswa dengan efek gradasi linier biru, menampilkan avatar, nama, NIM, dan tombol kode QR.</li>
-  <li><b>Dynamic Menu Grid:</b> 8 ikon navigasi menu utama yang disusun rapi menggunakan widget <code>Wrap</code> agar responsif dan proporsional.</li>
-  <li><b>Interactive Calendar Week:</b> Tampilan tanggal kalender horizontal untuk minggu ini dengan indikator hari aktif.</li>
-  <li><b>Dynamic Class Cards:</b> Kartu detail jadwal perkuliahan yang dibuat secara dinamis menggunakan daftar data (List). Dilengkapi informasi waktu, durasi, ruangan, jurnal, serta tombol aksi (Zoom, Materi, Presensi).</li>
-  <li><b>Bottom Navigation:</b> Bar navigasi bawah standar (Home, Chat, Akun).</li>
-</ul>
-
-<h2>🛠️ Teknologi & Stack</h2>
+<h2Teknologi & Stack</h2>
 <ul>
   <li><b>Framework:</b> <a href="https://flutter.dev/">Flutter</a></li>
   <li><b>Bahasa Pemrograman:</b> Dart</li>
@@ -28,7 +17,3 @@
 </ul>
 
 <hr>
-
-<p align="center">
-  Dibuat untuk tujuan edukasi dan portofolio pengembangan UI/UX dengan Flutter.
-</p>
